@@ -1,0 +1,166 @@
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\obj\Debug\KutuphaneWeb.csprojResolveAssemblyReference.cache
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\KutuphaneWeb.dll.config
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\KutuphaneWeb.dll
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\KutuphaneWeb.pdb
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\Antlr3.Runtime.dll
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.dll
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.SqlServer.dll
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\Newtonsoft.Json.dll
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Helpers.dll
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Mvc.dll
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Optimization.dll
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Razor.dll
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Deployment.dll
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.dll
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Razor.dll
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\WebGrease.dll
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.xml
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.SqlServer.xml
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Helpers.xml
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Mvc.xml
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Optimization.xml
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Razor.xml
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.xml
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Deployment.xml
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Razor.xml
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\Newtonsoft.Json.xml
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\bin\Antlr3.Runtime.pdb
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\obj\Debug\KutuphaneWeb.dll
+c:\users\bilgehan\documents\visual studio 2013\Projects\KutuphaneWeb\KutuphaneWeb\obj\Debug\KutuphaneWeb.pdb
+E:\KutuphaneWeb\KutuphaneWeb\bin\KutuphaneWeb.dll.config
+E:\KutuphaneWeb\KutuphaneWeb\bin\KutuphaneWeb.dll
+E:\KutuphaneWeb\KutuphaneWeb\bin\KutuphaneWeb.pdb
+E:\KutuphaneWeb\KutuphaneWeb\bin\Antlr3.Runtime.dll
+E:\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.dll
+E:\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.SqlServer.dll
+E:\KutuphaneWeb\KutuphaneWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\KutuphaneWeb\KutuphaneWeb\bin\Newtonsoft.Json.dll
+E:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Helpers.dll
+E:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Mvc.dll
+E:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Optimization.dll
+E:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Razor.dll
+E:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Deployment.dll
+E:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.dll
+E:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Razor.dll
+E:\KutuphaneWeb\KutuphaneWeb\bin\WebGrease.dll
+E:\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.xml
+E:\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.SqlServer.xml
+E:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Helpers.xml
+E:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Mvc.xml
+E:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Optimization.xml
+E:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Razor.xml
+E:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.xml
+E:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Deployment.xml
+E:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Razor.xml
+E:\KutuphaneWeb\KutuphaneWeb\bin\Newtonsoft.Json.xml
+E:\KutuphaneWeb\KutuphaneWeb\bin\Antlr3.Runtime.pdb
+E:\KutuphaneWeb\KutuphaneWeb\obj\Debug\KutuphaneWeb.csprojResolveAssemblyReference.cache
+E:\KutuphaneWeb\KutuphaneWeb\obj\Debug\KutuphaneWeb.dll
+E:\KutuphaneWeb\KutuphaneWeb\obj\Debug\KutuphaneWeb.pdb
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\KutuphaneWeb.dll.config
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\KutuphaneWeb.dll
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\KutuphaneWeb.pdb
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\Antlr3.Runtime.dll
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.dll
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\Newtonsoft.Json.dll
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Helpers.dll
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Mvc.dll
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Optimization.dll
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Razor.dll
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.dll
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\WebGrease.dll
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.xml
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Helpers.xml
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Mvc.xml
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Optimization.xml
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Razor.xml
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.xml
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\Newtonsoft.Json.xml
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\Antlr3.Runtime.pdb
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\obj\Debug\KutuphaneWeb.csprojResolveAssemblyReference.cache
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\obj\Debug\KutuphaneWeb.dll
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\obj\Debug\KutuphaneWeb.pdb
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\PagedList.dll
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\PagedList.Mvc.dll
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\PagedList.xml
+C:\Users\halim\Projects\KutuphaneWeb\KutuphaneWeb\bin\PagedList.Mvc.xml
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\KutuphaneWeb.dll.config
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\KutuphaneWeb.dll
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\KutuphaneWeb.pdb
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\Antlr3.Runtime.dll
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.dll
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\Newtonsoft.Json.dll
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\PagedList.dll
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\PagedList.Mvc.dll
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Helpers.dll
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Mvc.dll
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Optimization.dll
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Razor.dll
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.dll
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\WebGrease.dll
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.xml
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\PagedList.xml
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\PagedList.Mvc.xml
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Helpers.xml
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Mvc.xml
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Optimization.xml
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Razor.xml
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.xml
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\Newtonsoft.Json.xml
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\bin\Antlr3.Runtime.pdb
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\obj\Debug\KutuphaneWeb.csprojResolveAssemblyReference.cache
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\obj\Debug\KutuphaneWeb.dll
+C:\Users\halim\Desktop\KutuphaneWeb\KutuphaneWeb\obj\Debug\KutuphaneWeb.pdb
+E:\KutuphaneWeb\KutuphaneWeb\bin\PagedList.dll
+E:\KutuphaneWeb\KutuphaneWeb\bin\PagedList.Mvc.dll
+E:\KutuphaneWeb\KutuphaneWeb\bin\PagedList.xml
+E:\KutuphaneWeb\KutuphaneWeb\bin\PagedList.Mvc.xml
+D:\KutuphaneWeb\KutuphaneWeb\bin\KutuphaneWeb.dll.config
+D:\KutuphaneWeb\KutuphaneWeb\bin\KutuphaneWeb.dll
+D:\KutuphaneWeb\KutuphaneWeb\bin\KutuphaneWeb.pdb
+D:\KutuphaneWeb\KutuphaneWeb\bin\Antlr3.Runtime.dll
+D:\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.dll
+D:\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.SqlServer.dll
+D:\KutuphaneWeb\KutuphaneWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\KutuphaneWeb\KutuphaneWeb\bin\Newtonsoft.Json.dll
+D:\KutuphaneWeb\KutuphaneWeb\bin\PagedList.dll
+D:\KutuphaneWeb\KutuphaneWeb\bin\PagedList.Mvc.dll
+D:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Helpers.dll
+D:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Mvc.dll
+D:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Optimization.dll
+D:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Razor.dll
+D:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Deployment.dll
+D:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.dll
+D:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Razor.dll
+D:\KutuphaneWeb\KutuphaneWeb\bin\WebGrease.dll
+D:\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.xml
+D:\KutuphaneWeb\KutuphaneWeb\bin\EntityFramework.SqlServer.xml
+D:\KutuphaneWeb\KutuphaneWeb\bin\PagedList.xml
+D:\KutuphaneWeb\KutuphaneWeb\bin\PagedList.Mvc.xml
+D:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Helpers.xml
+D:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Mvc.xml
+D:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Optimization.xml
+D:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.Razor.xml
+D:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.xml
+D:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Deployment.xml
+D:\KutuphaneWeb\KutuphaneWeb\bin\System.Web.WebPages.Razor.xml
+D:\KutuphaneWeb\KutuphaneWeb\bin\Newtonsoft.Json.xml
+D:\KutuphaneWeb\KutuphaneWeb\bin\Antlr3.Runtime.pdb
+D:\KutuphaneWeb\KutuphaneWeb\obj\Debug\KutuphaneWeb.csprojResolveAssemblyReference.cache
+D:\KutuphaneWeb\KutuphaneWeb\obj\Debug\KutuphaneWeb.dll
+D:\KutuphaneWeb\KutuphaneWeb\obj\Debug\KutuphaneWeb.pdb

@@ -1,0 +1,48 @@
+﻿@model PagedList<KutuphaneWeb.Models.Member>
+@{
+    ViewBag.Title = "Members";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <h2>Üyeler</h2>
+        <hr>
+        <a href="@Url.Action("AddMember")" class="btn -btn-lg btn-primary">Üye Ekle</a>
+        <hr>
+        <div class="table-responsive">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>SSN</th>
+                        <th>Adı Soyadı</th>
+                        <th>Doğum Tarihi</th>
+                        <th>Doğum Yeri</th>
+                        <th>Üyelik Başlangıç Tarihi</th>
+                        <th>Adres</th>
+                        <th>Telefon Numarası</th>
+                        <th>Email</th>
+                        <th>Seçenekler</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (KutuphaneWeb.Models.Member member in Model)
+                    {
+                        <tr>
+                            <td>@member.SSN</td>
+                            <td>@member.NameSurname</td>
+                            <td>@member.BirthDate</td>
+                            <td>@member.BirthPlace</td>
+                            <td>@member.MembershipStartDate</td>
+                            <td>@member.Adress</td>
+                            <td>@member.TelephoneNumber</td>
+                            <td>@member.EMail</td>
+                            <td style="text-align:center;"><a href="@Url.Action("EditMember", new {id=member.Id })"><i class="glyphicon glyphicon-edit"></i></a> | <a href="@Url.Action("DeleteMember", new {id=member.Id })"><i class="glyphicon glyphicon-remove"></i> </a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            @Html.PagedListPager(Model, page => Url.Action("Members", new { page }), PagedListRenderOptions.Classic)
+        </div>
+    </div>
+</div>
+<!-- /.row -->

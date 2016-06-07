@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/customcss")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render(("~/bundles/jquery"))
+   
+    
+</head>
+<body>
+    <div id="wrapper">
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="Books">Kütüphane</a>
+            </div>
+            <!-- Top Menu Items -->
+            <ul class="nav navbar-right top-nav">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"> (Session İsmi) <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="#" class="btn disabled"><i class="fa fa-fw fa-user"></i> Profil</a>
+                        </li>
+                        <li>
+                        <li class="divider"></li>
+                        <li>
+                            <a href="@Url.Action("LogOff")"><i class="fa fa-fw fa-power-off"></i> Çıkış</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav side-nav">
+                    <li>
+                        <a href="/Home/Books"><i class="fa fa-fw fa-dashboard"></i> Anasayfa</a>
+                    </li>
+                    <li>
+                        <a href="/Home/Books"><i class="fa fa-fw fa-book"></i> Kitaplar</a>
+                    </li>
+                    <li>
+                        <a href="/Home/Members"><i class="fa fa-fw fa-users"></i> Üyeler</a>
+                    </li>
+                    <li>
+                        <a href="/Home/Borrows"><i class="fa fa-fw fa-table"></i> Emanet</a>
+                    </li>
+                    <li>
+                        <a href="/Home/Writers"><i class="fa fa-fw fa-pencil"></i> Yazarlar</a>
+                    </li>
+                    <li>
+                        <a href="/Home/BookTypes"><i class="fa fa-fw fa-list"></i> Kitap Türleri</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- /.navbar-collapse -->
+        </nav>
+        <div id="page-wrapper">
+            <div class="container-fluid">
+                @RenderBody()
+                <footer></footer>
+            </div>
+        </div>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

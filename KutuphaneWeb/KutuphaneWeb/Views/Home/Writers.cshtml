@@ -1,0 +1,44 @@
+﻿@model PagedList<KutuphaneWeb.Models.Writer>
+@{
+    ViewBag.Title = "Writers";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <h2>Yazarlar</h2>
+        <hr>
+        <a href="@Url.Action("AddWriter")" class="btn -btn-lg btn-primary">Yazar Ekle</a>
+        <hr>
+        <div class="table-responsive">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Adı Soyadı</th>
+                        <th>Doğum Tarihi</th>
+                        <th>Biyografi</th>
+                        <th>Seçenekler</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (KutuphaneWeb.Models.Writer writer in Model)
+                    {
+                        <tr>
+                            <td>@writer.NameSurname</td>
+                            <td>@writer.BirthDate</td>
+                            <td>@writer.Biography</td>
+                            <td style="text-align:center;"><a href="@Url.Action("EditWriter", new {id=writer.Id })" class="glyphicon glyphicon-edit"> </a> | <a href="@Url.Action("DeleteWriter", new {id=writer.Id })"><i class="glyphicon glyphicon-remove"></i></a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            @Html.PagedListPager(Model, page => Url.Action("Writers", new { page }), PagedListRenderOptions.Classic)
+        </div>
+    </div>
+</div>
+<!-- /.row -->
+@section scripts{
+    <!-- Morris Charts JavaScript -->
+    <script src="js/plugins/morris/raphael.min.js"></script>
+    <script src="js/plugins/morris/morris.min.js"></script>
+    <script src="js/plugins/morris/morris-data.js"></script>
+}

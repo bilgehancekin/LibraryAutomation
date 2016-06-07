@@ -1,0 +1,44 @@
+C:\Users\Bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\bin\x64\Debug\Kutuphane.exe.config
+C:\Users\Bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\bin\x64\Debug\Kutuphane.exe
+C:\Users\Bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\bin\x64\Debug\Kutuphane.pdb
+C:\Users\Bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.csprojResolveAssemblyReference.cache
+C:\Users\Bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.Login.resources
+C:\Users\Bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\Bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.csproj.GenerateResource.Cache
+C:\Users\Bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.exe
+C:\Users\Bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.pdb
+C:\Users\Bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.KutuphaneGiris.resources
+C:\Users\Bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.EmanetIslemleri.resources
+C:\Users\Bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.KitapIslemleri.resources
+C:\Users\Bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.OkuyucuIslemleri.resources
+C:\Users\Bilgehan\Documents\Visual Studio 2013\Projects\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.AramaIslemleri.resources
+E:\Kutuphane\Kutuphane\bin\x64\Debug\Kutuphane.exe.config
+E:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.exe
+E:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.pdb
+E:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.csprojResolveAssemblyReference.cache
+E:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.AramaIslemleri.resources
+E:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.EmanetIslemleri.resources
+E:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.KitapIslemleri.resources
+E:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.KutuphaneGiris.resources
+E:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.Login.resources
+E:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.OkuyucuIslemleri.resources
+E:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.Properties.Resources.resources
+E:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.csproj.GenerateResource.Cache
+E:\Kutuphane\Kutuphane\bin\x64\Debug\Kutuphane.exe
+E:\Kutuphane\Kutuphane\bin\x64\Debug\Kutuphane.pdb
+D:\Kutuphane\Kutuphane\bin\x64\Debug\Kutuphane.exe.config
+D:\Kutuphane\Kutuphane\bin\x64\Debug\Kutuphane.exe
+D:\Kutuphane\Kutuphane\bin\x64\Debug\Kutuphane.pdb
+D:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.csprojResolveAssemblyReference.cache
+D:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.AramaIslemleri.resources
+D:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.EmanetIslemleri.resources
+D:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.KitapIslemleri.resources
+D:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.KitapTuruIslemleri.resources
+D:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.YazarIslemleri.resources
+D:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.KutuphaneGiris.resources
+D:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.Login.resources
+D:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.UyeIslemleri.resources
+D:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.Properties.Resources.resources
+D:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.csproj.GenerateResource.Cache
+D:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.exe
+D:\Kutuphane\Kutuphane\obj\x64\Debug\Kutuphane.pdb

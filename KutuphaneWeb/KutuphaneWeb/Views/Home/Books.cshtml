@@ -1,0 +1,61 @@
+﻿@model PagedList<KutuphaneWeb.Models.Book>
+@{
+    ViewBag.Title = "Books";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <h2>Kitaplar</h2>
+        <hr>
+        <a href="@Url.Action("AddBook")" class="btn -btn-lg btn-primary">Kitap Ekle</a>
+        <hr>
+        <div class="table-responsive">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>ISBN</th>
+                        <th>Adı</th>
+                        <th>Yazarı</th>
+                        <th>Kitap Türü</th>
+                        <th>Sayfa Sayısı</th>
+                        <th>Özet</th>
+                        <th>Fiyatı</th>
+                        <th>Yayıncı</th>
+                        <th>Seçenekler</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (KutuphaneWeb.Models.Book book in Model)
+                    {
+                        <tr>
+                            <td>@book.ISBN</td>
+                            <td>@book.Name</td>
+                            <td>@book.Writer.NameSurname</td>
+                            <td>@book.BookType.Name</td>
+                            <td>@book.PageNumber</td>
+                            <td>@if (book.Summary.Length > 30)
+                            {
+                                @book.Summary.Substring(15, 15);
+                            }
+                            else {
+                                @book.Summary
+                            }</td>
+                            <td>@book.Price</td>
+                            <td>@book.Publisher</td>
+                            <td style="text-align:center;"><a href="@Url.Action("EditBook", new {id=book.Id })" class="glyphicon glyphicon-edit"> </a> | <a href="@Url.Action("DeleteBook", new {id=book.Id })"><i class="glyphicon glyphicon-remove"></i></a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            @Html.PagedListPager(Model, page => Url.Action("Books", new { page }), PagedListRenderOptions.Classic)
+        </div>
+    </div>
+</div>
+<!-- /.row -->
+
+@section scripts{
+    <!-- Morris Charts JavaScript -->
+    <script src="js/plugins/morris/raphael.min.js"></script>
+    <script src="js/plugins/morris/morris.min.js"></script>
+    <script src="js/plugins/morris/morris-data.js"></script>
+}

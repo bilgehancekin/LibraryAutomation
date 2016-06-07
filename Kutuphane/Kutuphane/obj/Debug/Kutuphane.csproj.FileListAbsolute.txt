@@ -1,0 +1,9 @@
+c:\users\bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+c:\users\bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+c:\users\bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+c:\users\bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csprojResolveAssemblyReference.cache
+c:\users\bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Login.resources
+c:\users\bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+c:\users\bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.Cache
+c:\users\bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+c:\users\bilgehan\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
