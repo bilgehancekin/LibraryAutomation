@@ -37,15 +37,13 @@ namespace Kutuphane
 
         private void buttonAddWriter_Click(object sender, EventArgs e)
         {
-            using (context)
-            {
-                Writer writer = new Writer();
-                writer.NameSurname = textNameSurname.Text;
-                writer.Biography = textBiography.Text;
-                writer.BirthDate = dateTimeBirthDate.Value;
-                context.Writers.InsertOnSubmit(writer);
-                context.SubmitChanges();
-            }
+            Writer writer = new Writer();
+            writer.NameSurname = textNameSurname.Text;
+            writer.Biography = textBiography.Text;
+            writer.BirthDate = dateTimeBirthDate.Value;
+            context.Writers.InsertOnSubmit(writer);
+            context.SubmitChanges();
+            
             gridWriterFill();
             textClear();
             MessageBox.Show("Yazar Başarıyla Eklendi");

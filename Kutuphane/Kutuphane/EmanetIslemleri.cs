@@ -76,17 +76,15 @@ namespace Kutuphane
 
         private void buttonAddBorrow_Click(object sender, EventArgs e)
         {
-            using (context)
-            {
-                Borrow borrow = new Borrow();
-                borrow.MemberId = ((KeyValuePair<int, string>)comboBoxMemberNames.SelectedItem).Key;
-                borrow.BookId = ((KeyValuePair<int, string>)comboBoxBookNames.SelectedItem).Key;
-                borrow.BorrowDate = dateTimeBorrow.Value;
-                borrow.EstimatedReturnDate  = dateTimeEstimatedReturn.Value;
-                borrow.ReturnDate = dateTimeReturn.Value;
-                context.Borrows.InsertOnSubmit(borrow);
-                context.SubmitChanges();
-            }
+            Borrow borrow = new Borrow();
+            borrow.MemberId = ((KeyValuePair<int, string>)comboBoxMemberNames.SelectedItem).Key;
+            borrow.BookId = ((KeyValuePair<int, string>)comboBoxBookNames.SelectedItem).Key;
+            borrow.BorrowDate = dateTimeBorrow.Value;
+            borrow.EstimatedReturnDate  = dateTimeEstimatedReturn.Value;
+            borrow.ReturnDate = dateTimeReturn.Value;
+            context.Borrows.InsertOnSubmit(borrow);
+            context.SubmitChanges();
+            
             MessageBox.Show("Emanet Başarıyla Eklendi");
             gridBorrowFill();
             textClear();

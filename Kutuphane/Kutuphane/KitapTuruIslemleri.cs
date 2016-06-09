@@ -36,14 +36,12 @@ namespace Kutuphane
 
         private void buttonAddBookType_Click(object sender, EventArgs e)
         {
-            using (context)
-            {
-                BookType bookType = new BookType();
-                bookType.Name = textNameSurname.Text;
-                bookType.Explanation = textExplanation.Text;
-                context.BookTypes.InsertOnSubmit(bookType);
-                context.SubmitChanges();
-            }
+            BookType bookType = new BookType();
+            bookType.Name = textNameSurname.Text;
+            bookType.Explanation = textExplanation.Text;
+            context.BookTypes.InsertOnSubmit(bookType);
+            context.SubmitChanges();
+            
             gridBookTypeFill();
             textClear();
             MessageBox.Show("Kitap Türü Başarıyla Eklendi");

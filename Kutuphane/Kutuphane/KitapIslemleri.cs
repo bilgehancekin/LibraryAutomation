@@ -67,20 +67,18 @@ namespace Kutuphane
 
         private void buttonAddBook_Click(object sender, EventArgs e)
         {
-            using (context)
-            {
-                Book book = new Book();
-                book.ISBN = textISBN.Text;
-                book.Name = textBookName.Text;
-                book.Publisher = textPublisher.Text;
-                book.Summary = textSummary.Text;
-                book.Price = float.Parse(textPrice.Text);
-                book.PageNumber = int.Parse(textPageNumber.Text);
-                book.TypeId = ((KeyValuePair<int, string>)comboBoxBookTypeName.SelectedItem).Key;
-                book.WriterId =((KeyValuePair<int, string>)comboBoxWriterName.SelectedItem).Key;
-                context.Books.InsertOnSubmit(book);
-                context.SubmitChanges();
-            }
+            Book book = new Book();
+            book.ISBN = textISBN.Text;
+            book.Name = textBookName.Text;
+            book.Publisher = textPublisher.Text;
+            book.Summary = textSummary.Text;
+            book.Price = float.Parse(textPrice.Text);
+            book.PageNumber = int.Parse(textPageNumber.Text);
+            book.TypeId = ((KeyValuePair<int, string>)comboBoxBookTypeName.SelectedItem).Key;
+            book.WriterId =((KeyValuePair<int, string>)comboBoxWriterName.SelectedItem).Key;
+            context.Books.InsertOnSubmit(book);
+            context.SubmitChanges();
+
             gridBookFill();
             textClear();
             MessageBox.Show("Kitap Başarıyla Eklendi");

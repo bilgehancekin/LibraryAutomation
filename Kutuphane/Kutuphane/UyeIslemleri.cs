@@ -22,25 +22,23 @@ namespace Kutuphane
         int selectedId = 0;
         void gridMemberFill()
         {
-            var allMembers = context.Members;
+            var allMembers = context.Members.ToList();
             dataGridMember.DataSource = allMembers;
         }
 
         private void buttonAddMember_Click(object sender, EventArgs e)
         {
-            using (context)
-            {
-                Member member = new Member();
-                member.SSN = textSSN.Text;
-                member.NameSurname = textNameSurname.Text;
-                member.EMail = textEMail.Text;
-                member.BirthPlace = textBirthPlace.Text;
-                member.BirthDate = dateTimeBirthDate.Value;
-                member.Adress = textAddress.Text;
-                member.MembershipStartDate = dateTimeMembershipStart.Value;
-                context.Members.InsertOnSubmit(member);
-                context.SubmitChanges();
-            }
+            Member member = new Member();
+            member.SSN = textSSN.Text;
+            member.NameSurname = textNameSurname.Text;
+            member.EMail = textEMail.Text;
+            member.BirthPlace = textBirthPlace.Text;
+            member.BirthDate = dateTimeBirthDate.Value;
+            member.Adress = textAddress.Text;
+            member.MembershipStartDate = dateTimeMembershipStart.Value;
+            context.Members.InsertOnSubmit(member);
+            context.SubmitChanges();
+            
             gridMemberFill();
             textClear();
             MessageBox.Show("Okuyucu Başarıyla Eklendi");
